@@ -9,6 +9,6 @@ int main() {
     cout << "Circumference rate" << endl;
     cout << fixed;
     cout.precision(12);
-    cout << 3.1415926535;
+    cout << num;
     return 0;
 }
